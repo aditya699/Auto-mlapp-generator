@@ -1,2 +1,4 @@
-# Auto-mlapp-generator
-This is an attempt to automate generation of ml_apps
+# This is a python web apps collection for learning.
+
+1.APP1- Basic BMI Calculator with FastAPI Backend.
+
